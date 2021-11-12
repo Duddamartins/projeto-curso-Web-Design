@@ -79,12 +79,7 @@ main {
 
 .card {
     width: 32%;
-    
     box-sizing: border-box;
-}
-
-.card-1, .card-2 {
-
 }
 
 .card p {
