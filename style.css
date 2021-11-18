@@ -58,6 +58,15 @@ h1 {
     text-shadow: 3px 3px 2px #333;
 }
 
+.paragrafo {
+    color:rgba(0, 0, 0, 0.932);
+    font-size: 600;
+    line-height: 25px;
+    word-spacing: 5px;
+    margin-bottom: 5px;
+    text-indent: 1.5em;
+}
+
 main {
     width: 80%;
     margin: auto;
@@ -91,7 +100,7 @@ main {
 }
 
 .titulo-texto {
-    background-color: rgb(212, 211, 211);
+    margin: 2px 25px;
 }
 
 hr {
